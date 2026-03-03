@@ -1,0 +1,6 @@
+from tvDatafeed import TvDatafeed, Interval
+
+username = 'YourTradingViewUsername'
+password = 'YourTradingViewPassword'
+
+tv = TvDatafeed(jskarve,RJayesh10)
